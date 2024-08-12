@@ -9,15 +9,13 @@ Customer churn is a critical issue for many businesses, as retaining customers i
 ## Files in This Repository
 
 - **Classification Model (Churn data).ipynb**: The Jupyter notebook containing the code for data preprocessing, feature engineering, model training, and evaluation.
-- **churn_data.csv**: The dataset used for this project (if applicable).
-- **model_output.pkl**: The serialized model output for deployment or further analysis.
+- **Churn_Modelling.csv**: The dataset used for this project (if applicable).
 
 ## Steps in the Project
 
 ### 1. Data Preprocessing
 - **Loading Data**: The dataset is loaded and basic exploratory data analysis (EDA) is performed.
 - **Data Cleaning**: Handling missing values, outliers, and other data quality issues.
-- **Feature Engineering**: Creating new features and selecting relevant ones to improve model performance.
 
 ### 2. Model Building
 - **Model Selection**: We experimented with several classification algorithms, including Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting Machines.
