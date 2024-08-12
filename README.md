@@ -33,15 +33,7 @@ Customer churn is a critical issue for many businesses, as retaining customers i
 - **Model Deployment**: The next step would be to deploy the model in a real-time environment using Flask or a similar framework.
 - **Further Optimization**: Exploring more advanced techniques such as deep learning models or ensemble methods.
 
-## Getting Started
-
-### Prerequisites
+### Build
 - Python 3.x
 - Jupyter Notebook
 - Libraries: pandas, scikit-learn, matplotlib, seaborn
-
-### Installation
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/Churn-Classification-Model.git
